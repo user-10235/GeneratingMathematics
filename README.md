@@ -8,4 +8,4 @@ Conjecture - Everything is defined as a mathematical structure as follows:
 
 ![Screenshot 2025-04-15 194757](https://github.com/user-attachments/assets/53f27344-cc33-48e9-a0d5-42cba5d2efb2)
 
-
+Feel free to test the conjecture and recreate different concepts.
