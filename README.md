@@ -10,6 +10,6 @@ Conjecture - Everything is defined as a mathematical structure as follows:
 
 and there are no logical operators in the conjecture and can not be constructed since it is assumed that the structure of everything is ture (or false if the conjecture is disproven).
 
-Constructing different axioms using this conjecture is a step forward to proving this.
+Constructing different axioms using this conjecture is a step forward to proving this conjecture.
 
 Feel free to test the conjecture and recreate different concepts.
