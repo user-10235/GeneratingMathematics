@@ -8,6 +8,6 @@ Conjecture - Everything is defined as a mathematical structure as follows:
 
 ![Screenshot 2025-04-15 194757](https://github.com/user-attachments/assets/53f27344-cc33-48e9-a0d5-42cba5d2efb2)
 
-Feel free to test the conjecture and recreate different concepts.
-
 There are no logical operators in the conjecture and can not be constructed since it is assumed that the structure of everything is ture (or false if the conjecture is disproven).
+
+Feel free to test the conjecture and recreate different concepts.
