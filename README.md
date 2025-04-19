@@ -6,8 +6,7 @@ This repository will introduce a conjecture that can potentially be used to gene
 
 Conjecture - Everything is defined as a mathematical structure as follows:
 
-<img width="151" alt="pic1" src="https://github.com/user-attachments/assets/89a4bf9e-f30b-48f1-84ed-503cb090f4e4" />
-
+<img width="215" alt="pic2" src="https://github.com/user-attachments/assets/5655a599-9237-4d78-9577-c2b6d6d4df10" />
 
 and there are no logical operators in the conjecture and can not be constructed since it is assumed that the structure of everything is ture (or false if the conjecture is disproven). Constructing different axioms using this conjecture is a step forward to proving this conjecture.
 
