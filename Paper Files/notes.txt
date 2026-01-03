@@ -4,6 +4,6 @@ This folder contains LaTeX source files for my research papers.
 Each sub-folder represents a different project.
 
 Contents:
-- 
+- A Formal Framework for Integer and Real Number Functions
 
 Last Updated: January 2026
