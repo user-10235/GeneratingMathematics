@@ -5,5 +5,6 @@ Each sub-folder represents a different project.
 
 Contents:
 - A Formal Framework for Integer and Real Number Functions
+- Delta Operator Definitions, Properties, and Interpretation
 
 Last Updated: January 2026
