@@ -1,0 +1,9 @@
+PROJECT: Research Paper Collection
+----------------------------------
+This folder contains LaTeX source files for my research papers.
+Each sub-folder represents a different project.
+
+Contents:
+- 
+
+Last Updated: January 2026
